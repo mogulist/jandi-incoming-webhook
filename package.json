@@ -1,0 +1,25 @@
+{
+  "name": "jandi-incoming-webhook",
+  "version": "1.0.0",
+  "description": "Send message to Jandi messenger's specific channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerbertLim/jandi-incoming-webhook.git"
+  },
+  "keywords": [
+    "Jandi"
+  ],
+  "author": "Herbert Lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HerbertLim/jandi-incoming-webhook/issues"
+  },
+  "homepage": "https://github.com/HerbertLim/jandi-incoming-webhook#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
