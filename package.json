@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/HerbertLim/jandi-incoming-webhook#readme",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.1"
   }
 }
