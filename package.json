@@ -23,7 +23,7 @@
     "url": "https://github.com/HerbertLim/jandi-incoming-webhook/issues"
   },
   "homepage": "https://github.com/HerbertLim/jandi-incoming-webhook#readme",
-  "dependencies": {
+  "peerDependencies": {
     "axios": "^0.21.1"
   },
   "devDependencies": {
